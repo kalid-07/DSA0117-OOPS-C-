@@ -1,0 +1,4 @@
+Calls per function: 10000000
+Normal function: 16261 us
+Inline function: 19433 us
+Result guard: 100000010000000

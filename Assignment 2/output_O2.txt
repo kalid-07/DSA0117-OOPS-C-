@@ -1,0 +1,4 @@
+Operations per version: 2000000
+Shift-array checksum: 19999945, time: 13353 us
+Circular-buffer checksum: 19999945, time: 5620 us
+Both store the most recent 10 values; matching checksums: true

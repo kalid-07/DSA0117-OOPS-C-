@@ -1,0 +1,7 @@
+dangling_warning.cpp: In function 'int& danglingReference()':
+dangling_warning.cpp:5:12: warning: reference to local variable 'local' returned [-Wreturn-local-addr]
+    5 |     return local; // returning a reference to a local object is invalid
+      |            ^~~~~
+dangling_warning.cpp:4:9: note: declared here
+    4 |     int local = 42;
+      |         ^~~~~
