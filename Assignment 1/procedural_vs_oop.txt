@@ -1,0 +1,5 @@
+Procedural accepted: YES, balance=7000
+OOP accepted: YES, balance=7000
+
+Compiler diagnostics:
+No warnings.

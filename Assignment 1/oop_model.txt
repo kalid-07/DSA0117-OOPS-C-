@@ -1,0 +1,6 @@
+Outer fare paise: 3000
+Journey accepted: YES
+Balance paise: 7000
+
+Compiler diagnostics:
+No warnings.

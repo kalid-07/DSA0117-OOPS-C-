@@ -1,0 +1,6 @@
+Monthly pass: free journey in covered zone
+Fare paid: 2400 paise; balance: 17600
+Fare paid: 5400 paise; balance: 12200
+Monthly pass: free journey in covered zone
+
+Compiler warnings: none

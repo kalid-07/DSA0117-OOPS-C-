@@ -1,0 +1,21 @@
+TEST RESULTS
+Inner off-peak: expected Rs 10.00, actual Rs 10.00 -> PASS
+Middle peak: expected Rs 24.00, actual Rs 24.00 -> PASS
+Outer off-peak: expected Rs 30.00, actual Rs 30.00 -> PASS
+08:00 boundary: expected Rs 12.00, actual Rs 12.00 -> PASS
+10:00 boundary: expected Rs 10.00, actual Rs 10.00 -> PASS
+17:00 boundary: expected Rs 24.00, actual Rs 24.00 -> PASS
+20:00 boundary: expected Rs 20.00, actual Rs 20.00 -> PASS
+Invalid zone: expected INVALID, actual INVALID -> PASS
+
+FIVE-JOURNEY EXAMPLE
+Journey 1: Rs 10.00
+Journey 2: Rs 24.00
+Journey 3: Rs 30.00
+Journey 4: Rs 12.00
+Journey 5: Rs 20.00
+Total: Rs 96.00
+Balance after all fares (without minimum-balance gate): Rs 4.00
+Negative recharge rejected: YES
+
+Compiler warnings: none

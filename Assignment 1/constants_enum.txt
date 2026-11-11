@@ -1,0 +1,7 @@
+Fares (paise): 1000 2000 3000
+Peak surcharge: 20%
+Minimum balance (paise): 5000
+Zone enum class safely stores a named zone.
+
+Compiler diagnostics:
+No warnings.

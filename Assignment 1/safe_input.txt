@@ -1,0 +1,5 @@
+Enter journey hour (0-23): Accepted hour: 9
+Fare: Rs 12.00
+
+Compiler diagnostics:
+No warnings.

@@ -1,0 +1,6 @@
+Accepted fare=1000 paise; balance=9000
+Accepted fare=3600 paise; balance=5400
+Denied; balance=5400
+
+Compiler diagnostics:
+No warnings.

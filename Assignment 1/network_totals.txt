@@ -1,0 +1,11 @@
+20000 journeys: 60000000 paise (Rs 600000)
+Fits common signed int: YES
+500000 journeys: 1500000000 paise (Rs 15000000)
+Fits common signed int: YES
+3000000 journeys: 9000000000 paise (Rs 90000000)
+Fits common signed int: NO
+INT_MAX=2147483647
+Use long long for network totals; signed int overflow must not be relied upon.
+
+Compiler diagnostics:
+No warnings.
