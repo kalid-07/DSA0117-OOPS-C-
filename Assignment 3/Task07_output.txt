@@ -1,0 +1,4 @@
+Resistor: 10 + 0j | magnitude=10
+Series RLC: 10 - 16.123j | magnitude=18.9724
+Parallel R-L: 7.116 + 4.53018j | magnitude=8.43564
+Safe error: Division by zero impedance

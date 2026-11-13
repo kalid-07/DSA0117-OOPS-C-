@@ -1,0 +1,5 @@
+Rs 200.00
+true
+Carry test: Rs 1.25
+Negative test: -Rs 1.25
+After +=: Rs 200.00

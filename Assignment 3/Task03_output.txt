@@ -1,0 +1,10 @@
+Created Morning Show (2x3)
+O O O 
+O O X 
+Created Afternoon Show (1x2)
+Closed Afternoon Show; booked seats: 1
+Created Night Show (2x2)
+Closed Night Show; booked seats: 1
+Created Empty Event (0x5)
+Closed Empty Event; booked seats: 0
+Closed Morning Show; booked seats: 1

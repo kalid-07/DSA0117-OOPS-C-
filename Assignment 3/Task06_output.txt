@@ -1,0 +1,4 @@
+[copy] [copy] [copy] 
+Combined: Hello World!
+Assigned: A longer SMS message for testing.
+true
