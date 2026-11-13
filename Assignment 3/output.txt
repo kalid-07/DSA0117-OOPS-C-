@@ -1,4 +1,10 @@
-Resistor: 10 + 0j | magnitude=10
-Series RLC: 10 - 16.123j | magnitude=18.9724
-Parallel R-L: 7.116 + 4.53018j | magnitude=8.43564
-Safe error: Division by zero impedance
+Created Morning Show (2x3)
+O O O 
+O O X 
+Created Afternoon Show (1x2)
+Closed Afternoon Show; booked seats: 1
+Created Night Show (2x2)
+Closed Night Show; booked seats: 1
+Created Empty Event (0x5)
+Closed Empty Event; booked seats: 0
+Closed Morning Show; booked seats: 1
