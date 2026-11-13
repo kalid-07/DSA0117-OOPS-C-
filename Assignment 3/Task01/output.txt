@@ -1,0 +1,5 @@
+Title: Untitled | Author: Unknown | Copies: 0
+Title: The Alchemist | Author: Unknown | Copies: 0
+Title: Wings of Fire | Author: Unknown | Copies: 4
+Title: Clean Code | Author: Robert C. Martin | Copies: 3
+Rejected: Copies cannot be negative
