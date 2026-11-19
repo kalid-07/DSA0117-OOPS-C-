@@ -1,0 +1,10 @@
+Bicycle BIKE01 rented; charge for 2 days = 200
+Returned; late fee (1 day late) = 50
+Two-wheeler TW01 rented; charge for 2 days = 500
+Returned; late fee (1 day late) = 125
+Car CAR01 rented; charge for 2 days = 3000
+Returned; late fee (1 day late) = 750
+Electric car EV01 rented; charge for 2 days = 4000
+Returned; late fee (1 day late) = 900
+Electric bus BUS01 rented; charge for 2 days = 8000
+Returned; late fee (1 day late) = 2000
