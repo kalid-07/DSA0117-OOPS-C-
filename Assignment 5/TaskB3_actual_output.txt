@@ -1,0 +1,4 @@
+virtual: total=2.46e+10, ms=5.81715
+switch: total=2.46e+10, ms=4.62772
+variant: total=2.46e+10, ms=4.02611
+results agree: yes
